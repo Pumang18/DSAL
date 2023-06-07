@@ -1,10 +1,3 @@
-/*
-Name : Gaurav Gorane SC0A10
-Problem Statement : Represent a given graph using adjacency matrix/list to perform DFS
- and using adjacency list to perform BFS.
- Use the map of the area around the college as the graph.
-  Identify the prominent land marks as nodes and perform DFS and BFS on that.
-*/
 
 #include <iostream>
 using namespace std;    
