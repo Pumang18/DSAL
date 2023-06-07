@@ -1,5 +1,4 @@
 /*
-Name : Gaurav Gorane SC0A10
 Problem Statement : Implement the Heap/Shell sort algorithm implemented in Java demonstrating heap/shell data structure with modularity of programming language
 */
 
